@@ -1,0 +1,7 @@
+,segment_id,segmentation_name,start_ts,end_ts,duration_ts
+0,1,audio-chord-segmentation,00:00:00:00,00:00:09:00,00:00:09:00
+1,2,audio-chord-segmentation,00:00:09:00,00:00:15:00,00:00:06:00
+2,3,audio-chord-segmentation,00:00:15:00,00:00:17:50,00:00:02:50
+3,4,audio-chord-segmentation,00:00:17:50,00:00:58:50,00:00:41:00
+4,5,audio-chord-segmentation,00:00:58:50,00:01:12:50,00:00:14:00
+5,6,audio-chord-segmentation,00:01:12:50,00:02:00:50,00:00:48:00

@@ -1,0 +1,7 @@
+,segment_id,segmentation_name,start_ts,end_ts,duration_ts
+0,1,audio-tempo-segmentation,00:00:00:00,00:00:12:95,00:00:12:94
+1,2,audio-tempo-segmentation,00:00:12:95,00:00:25:66,00:00:12:71
+2,3,audio-tempo-segmentation,00:00:25:66,00:00:29:83,00:00:04:16
+3,4,audio-tempo-segmentation,00:00:29:83,00:00:53:53,00:00:23:70
+4,5,audio-tempo-segmentation,00:00:53:53,00:01:08:63,00:00:15:09
+5,6,audio-tempo-segmentation,00:01:08:63,00:02:00:00,00:00:51:37

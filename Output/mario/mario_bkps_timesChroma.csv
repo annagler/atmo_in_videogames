@@ -1,0 +1,7 @@
+,segment_id,segmentation_name,start_ts,end_ts,duration_ts
+0,1,audio-chroma-segmentation,00:00:00:00,00:00:01:89,00:00:01:89
+1,2,audio-chroma-segmentation,00:00:01:89,00:01:14:50,00:01:12:60
+2,3,audio-chroma-segmentation,00:01:14:50,00:01:16:50,00:00:02:00
+3,4,audio-chroma-segmentation,00:01:16:50,00:01:18:29,00:00:01:79
+4,5,audio-chroma-segmentation,00:01:18:29,00:01:52:59,00:00:34:29
+5,6,audio-chroma-segmentation,00:01:52:59,00:02:00:09,00:00:07:50
